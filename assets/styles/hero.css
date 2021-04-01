@@ -1,0 +1,36 @@
+.hero__logo {
+	max-width: 450px;
+}
+
+.hero__button {
+	width: 100%;
+	background-color: #97CE4C;
+	border-color: ;
+}
+
+.hero__button:hover {
+	background-color: #878944:
+	border-color: ;
+}
+
+.life__trigger {
+	width: 8px;
+	height: 8px;
+	border-radius: 50%;
+}
+
+.life__trigger.Alive {
+	background-color: #97CE4C; 
+}
+
+.life__trigger.Dead {
+	background-color: #ed3b00; 
+}
+
+.life__trigger.unknown {
+	background-color: #997d91; 
+}
+
+.show__more__btn {
+	width: 100%;
+}
